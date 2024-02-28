@@ -1,4 +1,4 @@
-package io.awais.patterns.structural.singelton;
+package io.awais.patterns.creational.singleton;
 
 public class SharedPreferences {
   private String color;

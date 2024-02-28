@@ -1,4 +1,4 @@
-package io.awais.patterns.structural.factory.object;
+package io.awais.patterns.creational.factory.object;
 
 import io.awais.utils.knife.Knife;
 import io.awais.utils.knife.KnifeType;
